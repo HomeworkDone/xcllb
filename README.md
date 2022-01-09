@@ -1,2 +1,2 @@
 # xcllb.github.io
-[demo](https://homeworkdone.github.io/xcllb/blob/main/index.html)
+[demo](https://homeworkdone.github.io/xcllb.github.io/index.html)
